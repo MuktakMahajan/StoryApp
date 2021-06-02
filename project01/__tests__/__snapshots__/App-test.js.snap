@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Screen snapShot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "paddingHorizontal": 8,
+        "paddingVertical": 8,
+      }
+    }
+  >
+    <View>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../App/components/screen1/profile.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginHorizontal": 3,
+            "width": 200,
+          }
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "borderRightColor": "transparent",
+              "borderRightWidth": 60,
+              "borderStyle": "solid",
+              "borderTopColor": "#ffffff",
+              "borderTopWidth": 60,
+              "height": 0,
+              "position": "absolute",
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "alignSelf": "flex-end",
+              "backgroundColor": "transparent",
+              "borderRightColor": "transparent",
+              "borderRightWidth": 60,
+              "borderStyle": "solid",
+              "borderTopColor": "#ffffff",
+              "borderTopWidth": 60,
+              "height": 0,
+              "position": "absolute",
+              "transform": Array [
+                Object {
+                  "rotate": "90deg",
+                },
+              ],
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "borderRightColor": "transparent",
+              "borderRightWidth": 60,
+              "borderStyle": "solid",
+              "borderTopColor": "#ffffff",
+              "borderTopWidth": 60,
+              "bottom": 0,
+              "height": 0,
+              "position": "absolute",
+              "right": 0,
+              "transform": Array [
+                Object {
+                  "rotate": "180deg",
+                },
+              ],
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "borderRightColor": "transparent",
+              "borderRightWidth": 60,
+              "borderStyle": "solid",
+              "borderTopColor": "#ffffff",
+              "borderTopWidth": 60,
+              "bottom": 0,
+              "height": 0,
+              "left": 0,
+              "position": "absolute",
+              "transform": Array [
+                Object {
+                  "rotate": "270deg",
+                },
+              ],
+              "width": 0,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../App/components/screen1/images.png",
+          }
+        }
+        style={
+          Object {
+            "borderRadius": 12,
+            "height": 25,
+            "width": 25,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "black",
+        "fontSize": 20,
+      }
+    }
+  >
+     User-1
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "black",
+        "fontSize": 20,
+      }
+    }
+  >
+     Details-1 
+  </Text>
+</View>
+`;
